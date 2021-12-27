@@ -1,0 +1,19 @@
+body {
+    background-color: #EEEEEE;
+}
+hr {
+    border-color: grey;
+    border-style: dotted none none none;
+    border-width: thick;
+    width: 42px;
+}
+h1 {
+    color: #00ADB5;
+}
+h3 {
+    color: #00ADB5;
+}
+
+a:hover {
+    color:blue;
+}
